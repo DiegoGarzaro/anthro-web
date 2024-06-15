@@ -1,0 +1,180 @@
+{
+    "weight-for-age":{
+        "girls":{
+            "z-score-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/wfa_girls_0-to-13-weeks_zscores.xlsx?sfvrsn=c4f4ba9f_7",
+            "z-score-birth-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/wfa_girls_0-to-5-years_zscores.xlsx?sfvrsn=4c03b8db_7",
+            "percentiles-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_girls_p_0_13.xlsx?sfvrsn=e99e4ddb_11",
+            "percentiles-birth-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_girls_p_0_5.xlsx?sfvrsn=666fe445_7"
+        },
+        "boys":{
+            "z-score-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/wfa_boys_0-to-13-weeks_zscores.xlsx?sfvrsn=6e3a980f_7",
+            "z-score-birth-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/wfa_boys_0-to-5-years_zscores.xlsx?sfvrsn=97a05331_9",
+            "percentiles-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_boys_p_0_13.xlsx?sfvrsn=822d73c6_7",
+            "percentiles-birth-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_boys_p_0_5.xlsx?sfvrsn=a0b3ed5_7"
+        }
+    },
+    "length-for-age":{
+        "girls":{
+            "z-score-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_girls_0-to-13-weeks_zscores.xlsx?sfvrsn=a2c6650e_11",
+            "z-score-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_girls_0-to-2-years_zscores.xlsx?sfvrsn=e9e66a95_11",
+            "z-score-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_girls_2-to-5-years_zscores.xlsx?sfvrsn=2ec187b9_11",
+            "percentiles-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_girls_p_0_13.xlsx?sfvrsn=e646fa53_11",
+            "percentiles-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_girls_p_0_2.xlsx?sfvrsn=770a5ab8_9",
+            "percentiles-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_girls_2-to-5-years_zscores.xlsx?sfvrsn=2ec187b9_11"
+        },
+        "boys":{
+            "z-score-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_boys_0-to-13-weeks_zscores.xlsx?sfvrsn=70682dcc_9",
+            "z-score-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_boys_0-to-2-years_zscores.xlsx?sfvrsn=30e044c_9",
+            "z-score-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/lhfa_boys_2-to-5-years_zscores.xlsx?sfvrsn=17e5ad91_9",
+            "percentiles-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_boys_p_0_13.xlsx?sfvrsn=352c6026_9",
+            "percentiles-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_boys_p_0_2.xlsx?sfvrsn=308931b2_12",
+            "percentiles-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_boys_p_2_5.xlsx?sfvrsn=d6758a88_9"
+        }
+    },
+    "weight-for-length":{
+        "girls":{
+            "z-score-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/wfl_girls_0-to-2-years_zscores.xlsx?sfvrsn=288bc4e4_7",
+            "z-score-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/wfh_girls_2-to-5-years_zscores.xlsx?sfvrsn=4d66af6a_7",
+            "percentiles-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/tab_wfl_girls_p_0_2.xlsx?sfvrsn=9957c4f_7",
+            "percentiles-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/tab_wfh_girls_p_2_5.xlsx?sfvrsn=44c0c6a9_7"
+        },
+        "boys":{
+            "z-score-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/wfl_boys_0-to-2-years_zscores.xlsx?sfvrsn=e27a9da3_7",
+            "z-score-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/wfh_boys_2-to-5-years_zscores.xlsx?sfvrsn=202c0545_7",
+            "percentiles-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/tab_wfl_boys_p_0_2.xlsx?sfvrsn=556712b2_7",
+            "percentiles-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-length-height/tab_wfh_boys_p_2_5.xlsx?sfvrsn=d5b3f68c_7"
+        }
+    },
+    "bmi-for-age":{
+        "girls":{
+            "z-score-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_girls_0-to-13-weeks_zscores.xlsx?sfvrsn=7668918a_7",
+            "z-score-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_girls_0-to-2-years_zscores.xlsx?sfvrsn=2be9859c_7",
+            "z-score-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_girls_2-to-5-years_zscores.xlsx?sfvrsn=452aca36_7",
+            "percentiles-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_girls_p_0_13.xlsx?sfvrsn=42baea8e_5",
+            "percentiles-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_girls_p_0_2.xlsx?sfvrsn=47b71c57_5",
+            "percentiles-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_girls_p_2_5.xlsx?sfvrsn=82b179c7_5"
+        },
+        "boys":{
+            "z-score-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_boys_0-to-13-weeks_zscores.xlsx?sfvrsn=8eff3d30_7",
+            "z-score-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_boys_0-to-2-years_zcores.xlsx?sfvrsn=df725cc9_7",
+            "z-score-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/bmi_boys_2-to-5-years_zscores.xlsx?sfvrsn=73010c9b_5",
+            "percentiles-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_boys_p_0_13.xlsx?sfvrsn=b2115811_5",
+            "percentiles-birth-to-2-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_boys_p_0_2.xlsx?sfvrsn=b5e6cb08_5",
+            "percentiles-2-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_boys_p_2_5.xlsx?sfvrsn=f25b7478_7"
+        }  
+    },
+    "head-circumference-for-age":{
+        "girls":{
+            "z-score-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/hcfa-girls-0-13-zscores.xlsx?sfvrsn=f5795450_8",
+            "z-score-birth-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/hcfa-girls-0-5-zscores.xlsx?sfvrsn=8f959f88_6",
+            "percentiles-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_girls_p_0_13.xlsx?sfvrsn=be3f8ce1_5",
+            "percentiles-birth-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_girls_p_0_5.xlsx?sfvrsn=ad755200_5"
+        },
+        "boys":{
+            "z-score-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/hcfa-boys-0-13-zscores.xlsx?sfvrsn=b6bd79e9_8",
+            "z-score-birth-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/hcfa-boys-0-5-zscores.xlsx?sfvrsn=adf57aa4_8",
+            "percentiles-birth-to-13-weeks": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_boys_p_0_13.xlsx?sfvrsn=c715dc9f_5",
+            "percentiles-birth-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_boys_p_0_5.xlsx?sfvrsn=d6284c4c_5"
+        }
+    },
+    "arm-circumference-for-age": {
+        "girls":{
+            "z-score-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/arm-circumference-for-age/acfa-girls-3-5-zscores.xlsx?sfvrsn=df311d8b_13",
+            "percentiles-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/arm-circumference-for-age/tab_acfa_girls_p_3_5.xlsx?sfvrsn=a1e017d5_7"
+        },
+        "boys":{
+            "z-score-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/arm-circumference-for-age/acfa-boys-3-5-zscores.xlsx?sfvrsn=13c24647_8",
+            "percentiles-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/arm-circumference-for-age/tab_acfa_boys_p_3_5.xlsx?sfvrsn=31ca572d_7"
+        }
+    },
+    "subscapular-skinfold-for-age": {
+        "girls":{
+            "z-score-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/subscapular-skinfold-for-age/ssfa-girls-3-5-zscores.xlsx?sfvrsn=4fc42be8_7",
+            "percentiles-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/subscapular-skinfold-for-age/tab-ssfa-girls-p-3-5.xlsx?sfvrsn=7215a368_5"
+        },
+        "boys":{
+            "z-score-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/subscapular-skinfold-for-age/ssfa-boys-3-5-zscores.xlsx?sfvrsn=4e446c8_5",
+            "percentiles-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/subscapular-skinfold-for-age/tab-ssfa-boys-p-3-5.xlsx?sfvrsn=b37626bf_5"
+        }
+    },
+    "triceps-skinfold-for-age": {
+        "girls":{
+            "z-score-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/triceps-skinfold-for-age/tsfa-girls-3-5-zscores.xlsx?sfvrsn=a0966f41_7",
+            "percentiles-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/triceps-skinfold-for-age/tab-tsfa-girls-p-3-5.xlsx?sfvrsn=9bba6e20_7"
+        },
+        "boys":{
+            "z-score-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/triceps-skinfold-for-age/tsfa-boys-3-5-zscores.xlsx?sfvrsn=f7da6bd8_5",
+            "percentiles-3-months-to-5-years": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/triceps-skinfold-for-age/tab-tsfa-boys-p-3-5.xlsx?sfvrsn=70115acd_5"
+        }
+    },
+    "weight-velocity": {
+        "girls":{
+            "z-score-1-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-girls-1mon-z.xlsx?sfvrsn=d2c6d0df_5",
+            "z-score-2-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-girls-2mon-z.xlsx?sfvrsn=fc163d74_7",
+            "z-score-3-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-girls-3mon-z.xlsx?sfvrsn=4b06e34c_5",
+            "z-score-4-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_girls_4mon_z.xlsx?sfvrsn=33002931_7",
+            "z-score-6-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_girls_6mon_z.xlsx?sfvrsn=fdf77440_7",
+            "percentiles-1-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-girls-1mon-p.xlsx?sfvrsn=b6d51fd6_5",
+            "percentiles-2-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-girls-2mon-p.xlsx?sfvrsn=6fa48288_7",
+            "percentiles-3-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-girls-3mon-p.xlsx?sfvrsn=56892058_7",
+            "percentiles-4-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_girls_4mon_p.xlsx?sfvrsn=dbda769a_11",
+            "percentiles-6-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_girls_6mon_p.xlsx?sfvrsn=fc91a879_7"
+        },
+        "boys":{
+            "z-score-1-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-boys-1mon-z.xlsx?sfvrsn=96b0a570_7",
+            "z-score-2-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-boys-2mon-z.xlsx?sfvrsn=f46e16da_7",
+            "z-score-3-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-boys-3mon-z.xlsx?sfvrsn=6b98a969_5",
+            "z-score-4-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_boys_4mon_z.xlsx?sfvrsn=4e8a2336_9",
+            "z-score-6-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_boys_6mon_z.xlsx?sfvrsn=70af3bc0_11",
+            "percentiles-1-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-boys-1mon-p.xlsx?sfvrsn=9ecec326_5",
+            "percentiles-2-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-boys-2mon-p.xlsx?sfvrsn=f507aea4_8",
+            "percentiles-3-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-boys-3mon-p.xlsx?sfvrsn=72ea4ec_7",
+            "percentiles-4-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_boys_4mon_p.xlsx?sfvrsn=d5f91f35_11",
+            "percentiles-6-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_boys_6mon_p.xlsx?sfvrsn=d31d4a1b_7"
+        }
+    },
+    "length-velocity": {
+        "girls":{
+            "z-score-2-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/sft_length_girls_2mon_z.pdf?sfvrsn=634952ed_7",
+            "z-score-3-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_girls_3mon_z.xlsx?sfvrsn=1f745fe5_7",
+            "z-score-4-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_girls_4mon_z.xlsx?sfvrsn=64a8066_7",
+            "z-score-6-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_girls_6mon_z.xlsx?sfvrsn=2f28095f_7",
+            "percentiles-2-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt-weight-girls-2mon-p.xlsx?sfvrsn=6fa48288_7",
+            "percentiles-3-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_girls_3mon_p.xlsx?sfvrsn=135810f7_7",
+            "percentiles-4-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-velocity/ttt_weight_girls_4mon_p.xlsx?sfvrsn=dbda769a_11",
+            "percentiles-6-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_girls_6mon_p.xlsx?sfvrsn=abb41f64_9"
+        },
+        "boys":{
+            "z-score-2-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_boys_2mon_z.xlsx?sfvrsn=255408ca_9",
+            "z-score-3-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_boys_3mon_z.xlsx?sfvrsn=beb78186_9",
+            "z-score-4-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_boys_4mon_z.xlsx?sfvrsn=d809c6c2_9",
+            "z-score-6-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_boys_6mon_z.xlsx?sfvrsn=3b63c227_7",
+            "percentiles-2-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_boys_2mon_p.xlsx?sfvrsn=809dc745_7",
+            "percentiles-3-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_boys_3mon_p.xlsx?sfvrsn=a67837e_7",
+            "percentiles-4-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_boys_4mon_p.xlsx?sfvrsn=1dd57e99_7",
+            "percentiles-6-month-increments-birth-to-24-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-velocity/ttt_length_boys_6mon_p.xlsx?sfvrsn=8872d2f0_7"
+        }
+    },
+    "head-circumference-velocity": {
+        "girls":{
+            "z-score-2-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_girls_2mon_z.xlsx?sfvrsn=5721a52d_7",
+            "z-score-3-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_girls_3mon_z.xlsx?sfvrsn=cb9b09bf_7",
+            "z-score-4-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_girls_4mon_z.xlsx?sfvrsn=ff25e169_7",
+            "z-score-6-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_girls_6mon_z.xlsx?sfvrsn=2a29fe3a_7",
+            "percentiles-2-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_girls_2mon_p.xlsx?sfvrsn=54d55e10_7",
+            "percentiles-3-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_girls_3mon_p.xlsx?sfvrsn=eb83efa1_7",
+            "percentiles-4-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_girls_4mon_p.xlsx?sfvrsn=a99d3189_7",
+            "percentiles-6-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_girls_6mon_p.xlsx?sfvrsn=1eb6b0a4_7"
+        },
+        "boys":{
+            "z-score-2-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_boys_2mon_z.xlsx?sfvrsn=c84c1459_7",
+            "z-score-3-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_boys_3mon_z.xlsx?sfvrsn=3f69413_7",
+            "z-score-4-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_boys_4mon_z.xlsx?sfvrsn=f2809fc6_7",
+            "z-score-6-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_boys_6mon_z.xlsx?sfvrsn=51e69394_7",
+            "percentiles-2-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_boys_2mon_p.xlsx?sfvrsn=d03f9b8a_7",
+            "percentiles-3-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_boys_3mon_p.xlsx?sfvrsn=94bbcfad_7",
+            "percentiles-4-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_boys_4mon_p.xlsx?sfvrsn=62bae02f_7",
+            "percentiles-6-month-increments-birth-to-12-months": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-velocity/ttt_headc_boys_6mon_p.xlsx?sfvrsn=59ea7ede_7"
+        }
+    }
+}
