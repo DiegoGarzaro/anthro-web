@@ -2,7 +2,7 @@ import os
 import json
 from pydantic import BaseModel
 from typing import List
-from logger import Logger
+from backend.utils.logger import Logger
 
 class VirtualEnvironment(BaseModel):
     weight_for_age: dict
