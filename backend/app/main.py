@@ -1,6 +1,6 @@
 import os
 import sys
-import logging
+
 
 
 from fastapi import FastAPI
@@ -9,9 +9,10 @@ from contextlib import asynccontextmanager
 
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 
-from app.models.table import Table
 from utils.oms_table_reader import data_reader
+from utils.logger import Logger
 
+logger = Logger()
 
 
 dfs = {}
@@ -21,16 +22,16 @@ dfs = {}
 async def lifespan(app: FastAPI):
 
     # Scraping call
-    logging.info("Scraping data from OMS")
-    logging.info("Data scraped successfully")
+    logger.info("Scraping data from OMS")
+    logger.info("Data scraped successfully")
 
     # Data reader call
     try:
-        logging.info("Reading data")
+        logger.info("Reading data")
         dfs["data"] = data_reader()
-        logging.info("Data read successfully")
+        logger.info("Data read successfully")
     except Exception as error:
-        logging.critical(error)
+        logger.critical(error)
         raise ("Error reading data")
 
     yield
@@ -40,7 +41,7 @@ async def lifespan(app: FastAPI):
 app = FastAPI(lifespan=lifespan)
 
 
-@app.get("/data", response_model=Table)
+@app.get("/data", tags=["Data"], description="Get the data")
 async def get_data():
     return dfs
 
